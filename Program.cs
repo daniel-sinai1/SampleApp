@@ -7,4 +7,14 @@
             Console.WriteLine("Hello, World!");
         }
     }
+
+    public interface IMyInterface
+    {
+
+    }
+
+    public interface MyInterface
+    {
+
+    }
 }
